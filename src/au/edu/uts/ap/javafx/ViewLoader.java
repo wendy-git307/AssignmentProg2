@@ -2,7 +2,6 @@ package au.edu.uts.ap.javafx;
 
 import javafx.fxml.*;
 import javafx.stage.*;
-import model.Users.Customer;
 import javafx.scene.*;
 import java.io.*;
 import java.lang.Runnable;
@@ -35,5 +34,4 @@ public class ViewLoader {
         showStage(model, fxml, title, stage, () -> {
         });
     }
-
 }
