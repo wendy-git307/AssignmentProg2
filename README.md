@@ -10,7 +10,6 @@ Welcome to the **Prog2 Adoption Centre** application! This JavaFX-based project 
 - [Technologies Used](#technologies-used)
 - [Key Files](#key-files)
 - [How to Run](#how-to-run)
-- [Screenshots](#screenshots)
 - [Contributors](#contributors)
 
 ---
@@ -71,20 +70,9 @@ The **Prog2 Adoption Centre** application provides a platform for managing anima
 
 --- 
 
-## 📸 Screenshots
-
-### Login Screen
-![Login Screen](images/LoginScreen.png)
-
-### Customer Dashboard 
-![Customer Dashboard](images/CustomerDashboard.png)
-
-### Manager Dashboard
-![Manager Dashboard](images/ManagerDashboard.png)
-
----
-
 ## 👥 Contributors
 
-**'Tran Thao Nguyen Nguyen (Wendy)'**
+**Tran Thao Nguyen Nguyen (Wendy)**
+
+---
 
