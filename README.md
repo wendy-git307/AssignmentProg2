@@ -74,17 +74,17 @@ The **Prog2 Adoption Centre** application provides a platform for managing anima
 ## 📸 Screenshots
 
 ### Login Screen
-![Login Screen](/Users/wendycs037/Desktop/git/AssignmentProg2/images/LoginScreen.png)
+![Login Screen](images/LoginScreen.png)
 
 ### Customer Dashboard 
-![Customer Dashboard](/Users/wendycs037/Desktop/git/AssignmentProg2/images/CustomerDashboard.png)
+![Customer Dashboard](images/CustomerDashboard.png)
 
 ### Manager Dashboard
-![Manager Dashboard](/Users/wendycs037/Desktop/git/AssignmentProg2/images/ManagerDashboard.png)
+![Manager Dashboard](images/ManagerDashboard.png)
 
 ---
 
 ## 👥 Contributors
 
-** 'Tran Thao Nguyen Nguyen' 
+**'Tran Thao Nguyen Nguyen (Wendy)'**
 
